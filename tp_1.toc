@@ -1,0 +1,5 @@
+\select@language {french}
+\contentsline {section}{\numberline {1}Pr\IeC {\'e}sentation du TP}{1}
+\contentsline {section}{\numberline {2}Identification d'une fonction de transfert \IeC {\`a} p\IeC {\^o}les et z\IeC {\'e}ros inconnus}{1}
+\contentsline {subsection}{\numberline {2.1}Travail pr\IeC {\'e}paratoire}{2}
+\contentsline {subsection}{\numberline {2.2}Mise en oeuvre sous Matlab}{5}
